@@ -51,7 +51,7 @@ public class ConfigWindow : Window, IDisposable
 
     public ConfigWindow(Plugin plugin) : base("GlamourCheck###GlamourCheckSettings")
     {
-        Flags = ImGuiWindowFlags.NoCollapse | ImGuiWindowFlags.NoScrollbar | ImGuiWindowFlags.NoScrollWithMouse;
+        Flags = ImGuiWindowFlags.NoScrollbar | ImGuiWindowFlags.NoScrollWithMouse;
 
         Size = new Vector2(760, 640);
         SizeCondition = ImGuiCond.FirstUseEver;

@@ -2,8 +2,9 @@
   "Author": "GlamourCheck contributors",
   "Name": "GlamourCheck",
   "Punchline": "Gear collection checks for glamour tracking.",
-  "Description": "Tracks the latest known local gear collection snapshots and will provide compact glamour collection overlays and duty drop summaries. Use /glamourcheck to open settings.",
+  "Description": "Tracks glamour gear collection and shows compact markers, duty counters, and loot summaries.",
   "ApplicableVersion": "any",
+  "IconUrl": "https://files.dorner-steindl.com/GlamourCheck/icon.png",
   "Tags": [
     "glamour",
     "collection",

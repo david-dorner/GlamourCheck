@@ -4,3 +4,4 @@ bin/
 *.user
 docs/
 AGENTS.md
+GlamourCheck/repo.json
