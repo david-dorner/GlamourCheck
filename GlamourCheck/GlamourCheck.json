@@ -1,0 +1,12 @@
+{
+  "Author": "GlamourCheck contributors",
+  "Name": "GlamourCheck",
+  "Punchline": "Gear collection checks for glamour tracking.",
+  "Description": "Tracks the latest known local gear collection snapshots and will provide compact glamour collection overlays and duty drop summaries. Use /glamourcheck to open settings.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "glamour",
+    "collection",
+    "gear"
+  ]
+}

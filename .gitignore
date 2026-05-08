@@ -2,3 +2,5 @@
 obj/
 bin/
 *.user
+docs/
+AGENTS.md
